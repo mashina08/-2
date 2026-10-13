@@ -1,7 +1,0 @@
-print('Login:')
-log = input()
-print('Password:')
-pas = input()
-print('New password:')
-np = input()
-print(f'User {log} has changed the password to {np}')
